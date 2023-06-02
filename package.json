@@ -151,5 +151,8 @@
     "stylelint-config-twbs-bootstrap": "^4.0.0",
     "terser": "^5.17.1",
     "vnu-jar": "^21.10.12"
+  },
+  "volta": {
+    "node": "14.21.3"
   }
 }
